@@ -3,7 +3,7 @@ const items = [{
         description: "музыкальная",
         tags: ["BOY", "GIRL"],
         price: 60,
-        img: "./img/1.jpg",
+        img: "1.jpg",
         rating: 4.4,
     },
     {
